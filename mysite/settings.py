@@ -25,7 +25,7 @@ SECRET_KEY = 'u(27n(r%w)sie$v+je&5u*$c+e!ocmx8b)0r8hcz#8m6q!i)=n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['198.211.99.20', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1:8000', 'unicsage22.pythonanywhere.com']
 
 
 # Application definition
